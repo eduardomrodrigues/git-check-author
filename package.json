@@ -1,0 +1,25 @@
+{
+  "name": "git-check-author",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardomrodrigues/git-check-author.git"
+  },
+  "keywords": [
+    "git",
+    "checker",
+    "pre",
+    "hook"
+  ],
+  "author": "eduardomrodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardomrodrigues/git-check-author/issues"
+  },
+  "homepage": "https://github.com/eduardomrodrigues/git-check-author#readme"
+}
