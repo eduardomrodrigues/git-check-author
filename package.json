@@ -1,8 +1,9 @@
 {
   "name": "git-check-author",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "GIT checker author with members",
+  "main": "./index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "test"
   },
